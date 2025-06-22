@@ -33,7 +33,7 @@
 ---
 
 ### 🌐 Connect With Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/hareshwar-nv)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hareshwar-nv](https://www.linkedin.com/in/hareshwar-nv-354b1231a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Mail: iitzharesh@gmail.com
 - 🧠 [GitHub Discussions](https://github.com/HareshKen)
 
