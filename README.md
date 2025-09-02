@@ -6,7 +6,7 @@
 
 - 🎓 **🇮🇳 ECM Undergrad @ VIT Chennai**
   
-- 🧠 AI + Cybersecurity Enthusiast
+- 🧠 AI + SWE
   
 - 🚀 Tech Explorer
   
